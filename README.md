@@ -23,3 +23,5 @@ Compatibility: Compatible across various devices, including smartphones and tabl
 ## Screenshot:
 
 ![image](https://github.com/saicharan21-dev/calculator_application/assets/75615707/b2058a2b-0aee-4d34-8bc2-9b91b0a8ebae)
+![image](https://github.com/saicharan21-dev/calculator_application/assets/75615707/08a0eadc-dc76-4664-bce8-7c73f2bbe1d2)
+
