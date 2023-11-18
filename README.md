@@ -19,3 +19,7 @@ Launcher Icon: A unique and identifiable launcher icon ensures easy access to th
 History & Memory: Review past calculations and store frequently used numbers in memory for quick recall, making complex calculations a breeze.
 
 Compatibility: Compatible across various devices, including smartphones and tablets, ensuring a consistent experience across platforms.
+
+## Screenshot:
+
+![image](https://github.com/saicharan21-dev/calculator_application/assets/75615707/b2058a2b-0aee-4d34-8bc2-9b91b0a8ebae)
