@@ -1,3 +1,3 @@
-# calculator_application
+# DigitsEase
 
 
