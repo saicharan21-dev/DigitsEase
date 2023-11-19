@@ -18,7 +18,7 @@ Launcher Icon: A unique and identifiable launcher icon ensures easy access to th
 
 History & Memory: Review past calculations and store frequently used numbers in memory for quick recall, making complex calculations a breeze.
 
-Compatibility: Compatible across various devices, including smartphones and tablets, ensuring a consistent experience across platforms.
+Compatibility: Compatible across various devices, including smartphones and tablets, ensuring a consistent experience across platforms
 
 ## Screenshot:
 
