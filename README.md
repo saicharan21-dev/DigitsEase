@@ -14,7 +14,7 @@ Splash Screen: Enjoy a visually appealing splash screen that enhances the app's 
 
 Customization: Personalize your experience with themes and color options to suit your preferences. Make your calculator reflect your style.
 
-Launcher Icon: A unique and identifiable launcher icon ensures easy access to the app from your device's home screen
+Launcher Icon: A unique and identifiable launcher icon ensures easy access to the app from your device's home screen.
 
 History & Memory: Review past calculations and store frequently used numbers in memory for quick recall, making complex calculations a breeze.
 
